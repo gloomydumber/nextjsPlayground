@@ -663,3 +663,7 @@ export function getServerSideProps({ params: { params } }) {
   };
 }
 ```
+
+## Notes & References
+
+[🔗 Note from SC](https://github.com/gloomydumber/nextjsPlayground/blob/master/notes/fromSC.md)
